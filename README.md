@@ -1,2 +1,2 @@
 # Games
-custom made games by me 
+DOOM 2D demo game
