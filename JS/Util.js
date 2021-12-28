@@ -102,7 +102,7 @@ let explosion = new Image();
 explosion.onload = function () {
   spriteSheetloaded = true;
 };
-explosion.src = "Images/spriteSheet.png";
+explosion.src = "images/spriteSheet.png";
 //blood
 
 let bloodSheetloaded = false;
@@ -110,7 +110,7 @@ let blood = new Image();
 blood.onload = function () {
   bloodSheetloaded = true;
 };
-blood.src = "Images/bloodsplatterSheet.png";
+blood.src = "images/bloodsplatterSheet.png";
 //lives
 let livesLoaded = false;
 let livesPic = new Image();
